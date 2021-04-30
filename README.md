@@ -1,8 +1,10 @@
-### Hi there 👋
+### Dino's GitHub
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdino9881&count_bg=%23000000&title_bg=%23090909&icon=cplusplus.svg&icon_color=%2329C416&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dino9881&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=te0541)
 
 <!--
 **dino9881/dino9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
