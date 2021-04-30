@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dino9881&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=te0541)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={te0541})](https://solved.ac/{te0541})
 
 <!--
 **dino9881/dino9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
