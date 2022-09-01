@@ -3,6 +3,8 @@
 
 [![jonkim's 42 stats](https://badge42.vercel.app/api/v2/cl3k018dn010209l6dpaa8cl4/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dino9881&layout=compact)](https://github.com/github/github-readme-stats)
+
 <!--
 **dino9881/dino9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
