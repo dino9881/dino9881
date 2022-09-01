@@ -9,6 +9,7 @@
   ![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=ffffff) 
   <br>
   <h2> 🌱 I’m currently learning ...</h2>
+  
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
