@@ -17,6 +17,7 @@
  
   </br>
   <h2> 📫 How to reach me: ...</h2>
+  
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dino9881.github.io/)](https://dino9881.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdghthdms44@gmail.com)](mailto:whdghthdms44@gmail.com)
 
