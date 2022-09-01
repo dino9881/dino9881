@@ -8,7 +8,9 @@
  <h2>🔭 I’m currently working on ...</h2>
  
   ![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=ffffff) 
-  <h2> 👍 tech skills </h2>
+  <h2> 👍 
+   
+   skills </h2>
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +28,7 @@
  
   <h2> 📫 How to reach me: ...</h2>
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dino9881.github.io/)](https://dino9881.github.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/blog-black?style=flat-square&logo=github&link=https://dino9881.github.io/)](https://dino9881.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdghthdms44@gmail.com)](mailto:whdghthdms44@gmail.com)
  </div>
 
