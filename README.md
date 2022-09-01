@@ -3,7 +3,7 @@
 
 [![jonkim's 42 stats](https://badge42.vercel.app/api/v2/cl3k018dn010209l6dpaa8cl4/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)  
 
-
+<div align=center>
  <h2>🔭 I’m currently working on ...</h2>
  
   ![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=ffffff) 
@@ -27,6 +27,7 @@
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dino9881.github.io/)](https://dino9881.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdghthdms44@gmail.com)](mailto:whdghthdms44@gmail.com)
+ </div>
 
 <!--
 **dino9881/dino9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
