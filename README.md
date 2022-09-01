@@ -1,9 +1,9 @@
 ### Dino's GitHub
+<div align=center>
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=te0541)](https://solved.acte0541)
 
 [![jonkim's 42 stats](https://badge42.vercel.app/api/v2/cl3k018dn010209l6dpaa8cl4/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)  
 
-<div align=center>
  <h2>🔭 I’m currently working on ...</h2>
  
   ![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=ffffff) 
