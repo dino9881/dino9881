@@ -7,15 +7,18 @@
  <h2>🔭 I’m currently working on ...</h2>
  
   ![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=ffffff) 
-  <br>
-  <h2> 🌱 I’m currently learning ...</h2>
+  <h2> 👍 tech skills </h2>
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+  <h2> 🌱 I’m currently learning ...</h2>
+  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+  
  
-  </br>
   <h2> 📫 How to reach me: ...</h2>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dino9881.github.io/)](https://dino9881.github.io/)
