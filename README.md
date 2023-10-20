@@ -24,7 +24,7 @@
 
    <h2>Project</h2>
    
-   #### 1. [`트렌센던스`](https://github.com/dino9881/42T) : 42Seoul 실시간 `Pong` 게임 웹 사이트 ('23.05 ~ '23.08) `Frontend`
+   #### 1. [`42T`](https://github.com/dino9881/42T) : 42Seoul ft_transcendence 과제 실시간 `Pong` 게임 웹 사이트 ('23.05 ~ '23.08) `Frontend`
    #### 2. [`42nomad`](https://github.com/42nomad/backend) | [`회고록`](https://dino9881.github.io/etc/2023/10/14/42nomad/)  : 42서울 자리 검색 서비스 ('23.08 ~ '23.09) `Backend`
    
   
