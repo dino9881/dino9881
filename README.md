@@ -39,7 +39,7 @@
  
   <h2> 📫 How to reach me: ...</h2>
   
-  [![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://dino9881.github.io/)](https://dino9881.github.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://dino9881.github.io/)](https://dino9881.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdghthdms44@gmail.com)](mailto:whdghthdms44@gmail.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dino9881&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
